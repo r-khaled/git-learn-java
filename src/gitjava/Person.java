@@ -10,5 +10,6 @@ package gitjava;
  * @author 10
  */
 public class Person {
-    
+    public String name;
+    public int age;
 }
