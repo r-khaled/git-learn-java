@@ -19,6 +19,7 @@ public class animal {
         System.out.println("animal eats ");
     }
     public void run(){
-        System.out.println("run ");
+        System.out.println("run ")
+                vhfuvudhv
     }
 }
