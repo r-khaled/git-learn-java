@@ -14,7 +14,8 @@ public class animal {
 
     public animal(String name) {
         this.name = name;
-
     }
-
+    public void eat (){
+        System.out.println("animal eats ");
+    }
 }
