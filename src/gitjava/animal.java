@@ -9,5 +9,7 @@ package gitjava;
  * @author KHALED RAGAB
  */
 public class animal {
+    public String name; 
+    
     
 }
