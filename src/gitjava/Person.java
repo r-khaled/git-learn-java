@@ -10,6 +10,7 @@ package gitjava;
  * @author 10
  */
 public class Person {
+
     public String name;
     public int age;
 
@@ -33,5 +34,14 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
-    
+
+    public void talk() {
+        System.out.print("hi my name is "+name);
+    }
+
+    public void walk() {
+        System.out.print(name + " start walk");
+
+    }
+
 }
