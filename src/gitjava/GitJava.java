@@ -15,7 +15,8 @@ public class GitJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        animal cat = new animal ("string cat") ;
+        cat.eat();
     }
     
 }
