@@ -15,11 +15,8 @@ public class GitJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        animal cat = new animal ("string cat") ;
-        cat.eat();
-        Person person= new Person("fathy",22);
-        person.talk();
-
+      //asdpasapsldsdlpqwekl[pkqwe[
+      //qweqweqwkleqwe
     }
     
 }
