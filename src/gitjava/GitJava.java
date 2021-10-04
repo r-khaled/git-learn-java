@@ -17,6 +17,9 @@ public class GitJava {
     public static void main(String[] args) {
         animal cat = new animal ("string cat") ;
         cat.eat();
+        Person person= new Person("fathy",22);
+        person.talk();
+
     }
     
 }
